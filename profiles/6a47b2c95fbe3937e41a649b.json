@@ -19,7 +19,7 @@
         "Nickname": "headless_6a47b2c95fbe3937e41a649a",
         "LowerNickname": "headless_6a47b2c95fbe3937e41a649a",
         "Side": "Usec",
-        "Level": 3,
+        "Level": 1,
         "Experience": 0,
         "RegistrationDate": 1783083721,
         "GameVersion": "standard",
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1783104345
+        "UpdateTime": 1783109405
       },
       "Inventory": {
         "items": [
@@ -1146,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "df7fd37b5ac930d1cfadbc2f83349197",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783107968,
+        "sptUpdateLastRunTimestamp": 1783109585,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -2000,8 +2000,8 @@
       "_id": "5a7c2eca46aef81a7ca2145d"
     },
     "686eea254af06fe1f89b528a": {
-      "attachmentsNew": 1,
-      "new": 1,
+      "attachmentsNew": 2,
+      "new": 2,
       "type": 1,
       "Users": [
         {
@@ -2101,6 +2101,87 @@
                 "_id": "6a47b919d4a8210fc8c01675",
                 "_tpl": "58864a4f2459770fcc257101",
                 "parentId": "6a47b919d4a8210fc8c01674",
+                "slotId": "cartridges",
+                "upd": {
+                  "StackObjectsCount": 50
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        },
+        {
+          "_id": "6a48174dea1a556c34661c9d",
+          "uid": "686eea254af06fe1f89b528a",
+          "type": 13,
+          "dt": 1783109453,
+          "text": "[SYSTEM NOTICE]\r\n-> Status: ACTIVE\r\n    WTT Armory Installation: DETECTED\r\n    Initializing Welcome Protocol...\r\n-> Status: DEPLOYING...\r\n    Dispensing Complimentary Item...\r\n-> Status: COMPLETE\r\n    User Input: NOT REQUIRED",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a48174dea1a556c34661c9e",
+            "data": [
+              {
+                "_id": "6a48174dea1a556c34661c9f",
+                "_tpl": "679f2453d1970258c1df3fce",
+                "parentId": "6a48174dea1a556c34661c9e",
+                "slotId": "main",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca0",
+                "_tpl": "679f24d15ff75ca48f6462a2",
+                "parentId": "6a48174dea1a556c34661c9f",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca1",
+                "_tpl": "679f24e723451339c041f28d",
+                "parentId": "6a48174dea1a556c34661c9f",
+                "slotId": "mod_reciever"
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca2",
+                "_tpl": "679f24e0434b197ed7a10468",
+                "parentId": "6a48174dea1a556c34661c9f",
+                "slotId": "mod_pistolgrip"
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca3",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a48174dea1a556c34661c9f",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca4",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a48174dea1a556c34661c9e",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca5",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a48174dea1a556c34661c9e",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca6",
+                "_tpl": "657025a4bfc87b3a34093250",
+                "parentId": "6a48174dea1a556c34661c9e",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a48174dea1a556c34661ca7",
+                "_tpl": "58864a4f2459770fcc257101",
+                "parentId": "6a48174dea1a556c34661ca6",
                 "slotId": "cartridges",
                 "upd": {
                   "StackObjectsCount": 50
