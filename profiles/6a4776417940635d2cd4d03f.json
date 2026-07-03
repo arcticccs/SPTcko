@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 86,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 80,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1783106274
+        "UpdateTime": 1783109233
       },
       "Inventory": {
         "items": [
@@ -1274,7 +1274,7 @@
               "isSearched": true
             },
             "upd": {
-              "StackObjectsCount": 382123
+              "StackObjectsCount": 342123
             }
           },
           {
@@ -3812,21 +3812,6 @@
             }
           },
           {
-            "_id": "6a478da078927b6860a7e4a9",
-            "_tpl": "590c2c9c86f774245b1f03f2",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 17,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 1,
-              "SpawnedInSession": true
-            }
-          },
-          {
             "_id": "6a47913678927b6860a98da1",
             "_tpl": "573476f124597737e04bf328",
             "parentId": "664115f68b8ae85875060b39",
@@ -5311,23 +5296,6 @@
             }
           },
           {
-            "_id": "6a48039b3ad32d36f49e28ee",
-            "_tpl": "57347c1124597737fb1379e3",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 7,
-              "y": 64,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
             "_id": "6a48039b3ad32d36f49e29d0",
             "_tpl": "590c651286f7741e566b6461",
             "parentId": "664115f68b8ae85875060b39",
@@ -5483,40 +5451,6 @@
             "slotId": "hideout",
             "location": {
               "x": 2,
-              "y": 66,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
-            "_id": "6a48039b3ad32d36f49e2704",
-            "_tpl": "57347b8b24597737dd42e192",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 5,
-              "y": 66,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
-            "_id": "6a48039b3ad32d36f49e2a36",
-            "_tpl": "56742c284bdc2d98058b456d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
               "y": 66,
               "r": "Horizontal"
             },
@@ -7143,10 +7077,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1783071354,
+            "PointsEarnedDuringSession": 296.25,
+            "LastAccess": 1783109318,
             "Id": "HideoutManagement",
-            "Progress": 410
+            "Progress": 706.25
           }
         ],
         "Mastering": [
@@ -11245,7 +11179,7 @@
           },
           {
             "type": 1,
-            "level": 0,
+            "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
             "completeTime": 0,
@@ -11350,7 +11284,7 @@
           },
           {
             "type": 9,
-            "level": 0,
+            "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
             "completeTime": 0,
@@ -11414,7 +11348,7 @@
           },
           {
             "type": 15,
-            "level": 0,
+            "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
             "completeTime": 0,
@@ -11716,7 +11650,7 @@
         "HideoutCounters": null,
         "Seed": "037af17b47b9982e450998c5a38bb269",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783107988,
+        "sptUpdateLastRunTimestamp": 1783109585,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -12764,6 +12698,14 @@
           "type": "TextBonus",
           "value": 0,
           "icon": "/files/Hideout/Icon_Cultist Zone_Small.png"
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756e0",
+          "type": "DebuffEndDelay",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -10
         }
       ],
       "Notes": {
@@ -12776,7 +12718,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1726937474,
+        "nextResetTime": 1727455874,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
