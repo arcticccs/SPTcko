@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1783258071
+        "UpdateTime": 1783265259
       },
       "Inventory": {
         "items": [
@@ -1146,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "873d77a5795a39daf6de6a328d714bd6",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783258875,
+        "sptUpdateLastRunTimestamp": 1783279225,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -2419,6 +2419,13 @@
         "author": "GhostFenixx",
         "dateAdded": 1783113288,
         "url": "https://github.com/GhostFenixx"
+      },
+      {
+        "name": "server",
+        "version": "2.3.4",
+        "author": "Fika",
+        "dateAdded": 1783259359,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
       }
     ],
     "receivedGifts": [
