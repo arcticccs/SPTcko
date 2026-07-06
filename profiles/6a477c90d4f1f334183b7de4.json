@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1783321972
+        "UpdateTime": 1783330006
       },
       "Inventory": {
         "items": [
@@ -20857,12 +20857,6 @@
           "value": 0,
           "sourceId": "6990cb9025c3f373ec3ef0ab"
         },
-        "6a49641b5a9b7c5288576ccc": {
-          "id": "6a49641b5a9b7c5288576ccc",
-          "type": "CounterCreator",
-          "value": 10,
-          "sourceId": "6a49641b5a9b7c5288576cc8"
-        },
         "68d988dd79696dd8275ddf7a": {
           "id": "68d988dd79696dd8275ddf7a",
           "type": "HandoverItem",
@@ -20898,18 +20892,6 @@
           "type": "HandoverItem",
           "value": 1,
           "sourceId": "68d99864e574f10eb9d0f773"
-        },
-        "6a49641b5a9b7c5288576cd7": {
-          "id": "6a49641b5a9b7c5288576cd7",
-          "type": "HandoverItem",
-          "value": 1,
-          "sourceId": "6a49641b5a9b7c5288576cd5"
-        },
-        "6a49641b5a9b7c5288576cec": {
-          "id": "6a49641b5a9b7c5288576cec",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a49641b5a9b7c5288576ce7"
         },
         "5cb31b6188a450159d330a18": {
           "id": "5cb31b6188a450159d330a18",
@@ -22492,7 +22474,7 @@
         "HideoutCounters": null,
         "Seed": "e7eccc1542df4fc2d6a6fe9b49734f3a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783329829,
+        "sptUpdateLastRunTimestamp": 1783330207,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
