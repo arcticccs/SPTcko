@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1783330550
+        "UpdateTime": 1783337745
       },
       "Inventory": {
         "items": [
@@ -145,6 +145,12 @@
           {
             "_id": "60dca3da42ad9b706b369aca",
             "_tpl": "602543c13fee350cd564d032"
+          },
+          {
+            "_id": "6a4b7787627a5e555c4472a7",
+            "_tpl": "627a4e6b255f7527fb05a0f6",
+            "parentId": "6a4b76f661bcc216686ceeda",
+            "slotId": "Pockets"
           }
         ],
         "equipment": "6a4b76f661bcc216686ceeda",
@@ -1140,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "ef9257d64886b28f36d710e6a7211597",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783330553,
+        "sptUpdateLastRunTimestamp": 1783338478,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -1248,7 +1254,7 @@
           "disabled": false
         },
         "bd3a8b28356d9c6509966546": {
-          "loyaltyLevel": 1,
+          "loyaltyLevel": 0,
           "salesSum": 0,
           "standing": 0,
           "nextResupply": 1783336724,
@@ -1289,7 +1295,38 @@
         "offers": []
       },
       "Achievements": {},
-      "RepeatableQuests": [],
+      "RepeatableQuests": [
+        {
+          "id": "615ffc701c97c768137e719b",
+          "name": "Daily",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        },
+        {
+          "id": "618035d38012292db3081bf0",
+          "name": "Weekly",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        },
+        {
+          "id": "62825ef60e88d037dc1eb426",
+          "name": "Daily_Savage",
+          "activeQuests": [],
+          "inactiveQuests": [],
+          "endTime": 0,
+          "changeRequirement": {},
+          "freeChanges": 0,
+          "freeChangesAvailable": 0
+        }
+      ],
       "Bonuses": [
         {
           "id": "64f5b9e5fa34f11b380756c0",
@@ -1953,14 +1990,428 @@
       "Variables": {}
     }
   },
-  "dialogues": {},
+  "userbuilds": {
+    "weaponBuilds": [],
+    "equipmentBuilds": [],
+    "magazineBuilds": []
+  },
+  "dialogues": {
+    "5a7c2eca46aef81a7ca2145d": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a4b77d4627a5e555c4b7574",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 13,
+          "dt": 1783330772,
+          "templateId": "6776e324810eb26b880fb4a5 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "678d4d90fc70718b8c4067ad",
+            "data": [
+              {
+                "_id": "6a4b77d4627a5e555c4b7575",
+                "_tpl": "590c2c9c86f774245b1f03f2",
+                "parentId": "678d4d90fc70718b8c4067ad",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        }
+      ],
+      "_id": "5a7c2eca46aef81a7ca2145d"
+    },
+    "686eea254af06fe1f89b528a": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 1,
+      "Users": [
+        {
+          "_id": "686eea254af06fe1f89b528a",
+          "aid": 2742069,
+          "Info": {
+            "Nickname": "WTTBot",
+            "Side": "Usec",
+            "Level": 69,
+            "MemberCategory": 16,
+            "SelectedMemberCategory": 16
+          }
+        },
+        {
+          "_id": "6a4b76f661bcc216686ceed8",
+          "aid": 1455284,
+          "Info": {
+            "Nickname": "headless_6a4b76f661bcc216686ceed7",
+            "Side": "Usec",
+            "Level": 1,
+            "MemberCategory": 128,
+            "SelectedMemberCategory": 0
+          }
+        }
+      ],
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a4b7951627a5e555c4b8983",
+          "uid": "686eea254af06fe1f89b528a",
+          "type": 13,
+          "dt": 1783331153,
+          "text": "[SYSTEM NOTICE]\r\n-> Status: ACTIVE\r\n    WTT Armory Installation: DETECTED\r\n    Initializing Welcome Protocol...\r\n-> Status: DEPLOYING...\r\n    Dispensing Complimentary Item...\r\n-> Status: COMPLETE\r\n    User Input: NOT REQUIRED",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a4b7951627a5e555c4b8984",
+            "data": [
+              {
+                "_id": "6a4b7951627a5e555c4b8985",
+                "_tpl": "679f2453d1970258c1df3fce",
+                "parentId": "6a4b7951627a5e555c4b8984",
+                "slotId": "main",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 100,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  }
+                }
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b8986",
+                "_tpl": "679f24d15ff75ca48f6462a2",
+                "parentId": "6a4b7951627a5e555c4b8985",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b8987",
+                "_tpl": "679f24e723451339c041f28d",
+                "parentId": "6a4b7951627a5e555c4b8985",
+                "slotId": "mod_reciever"
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b8988",
+                "_tpl": "679f24e0434b197ed7a10468",
+                "parentId": "6a4b7951627a5e555c4b8985",
+                "slotId": "mod_pistolgrip"
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b8989",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a4b7951627a5e555c4b8985",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b898a",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a4b7951627a5e555c4b8984",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b898b",
+                "_tpl": "679f24edc0aba3ffa139b03f",
+                "parentId": "6a4b7951627a5e555c4b8984",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b898c",
+                "_tpl": "657025a4bfc87b3a34093250",
+                "parentId": "6a4b7951627a5e555c4b8984",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a4b7951627a5e555c4b898d",
+                "_tpl": "58864a4f2459770fcc257101",
+                "parentId": "6a4b7951627a5e555c4b898c",
+                "slotId": "cartridges",
+                "upd": {
+                  "StackObjectsCount": 50
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "_id": "686eea254af06fe1f89b528a"
+    }
+  },
   "spt": {
     "version": "4.0.13 (40087)",
-    "mods": [],
-    "receivedGifts": [],
+    "mods": [
+      {
+        "name": "Bosses Have GP Coins",
+        "version": "1.0.0",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Bosses Have Lega Medals",
+        "version": "2.0.1",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Acid's Bot Placement System",
+        "version": "2.0.19",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Bright Lasers",
+        "version": "2.0.0",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Acid's Progressive Bot System",
+        "version": "2.2.1",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Ref Friendly Quests",
+        "version": "2.0.3",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Scorpion",
+        "version": "1.0.0",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/sp-tarkov/server-mod-examples"
+      },
+      {
+        "name": "StatTrack™",
+        "version": "2.0.0",
+        "author": "acidphantasm",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Amonya",
+        "version": "2.1.0",
+        "author": "Szonszczyk",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/Szonszczyk/Amonya-csharp"
+      },
+      {
+        "name": "Content Backport - Prestiges",
+        "version": "1.0.3",
+        "author": "ArchangelWTF",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/ArchangelWTF/ContentBackportPrestiges"
+      },
+      {
+        "name": "Lots of Loot Redux",
+        "version": "4.1.2",
+        "author": "ArchangelWTF",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/ArchangelWTF/LotsofLoot"
+      },
+      {
+        "name": "Borkel's Realistic Night Vision Goggles",
+        "version": "2.1.1",
+        "author": "Borkel",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/Borkel/RealisticNVG-client-2/"
+      },
+      {
+        "name": "Bot Callsigns",
+        "version": "2.0.4",
+        "author": "harmony",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Boxes At Ref",
+        "version": "2.0.0",
+        "author": "SomoneNamedAdam",
+        "dateAdded": 1783330772,
+        "url": ""
+      },
+      {
+        "name": "Show Me The Money",
+        "version": "2.7.0",
+        "author": "SwiftXP",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/swiftxp-hub/spt-show-me-the-money"
+      },
+      {
+        "name": "DefinitiveWeaponVariants",
+        "version": "4.2.0",
+        "author": "Szonszczyk",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/Szonszczyk/DefinitiveWeaponVariants-csharp"
+      },
+      {
+        "name": "Eco-Attachment-Emporium",
+        "version": "2.0.6",
+        "author": "Eco",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Eco-WW2-Pack",
+        "version": "1.0.1",
+        "author": "Eco",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Epics All in One",
+        "version": "4.0.8",
+        "author": "EpicRangeTime",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Expanded Task Text",
+        "version": "2.0.3",
+        "author": "Cj",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "server",
+        "version": "2.3.4",
+        "author": "Fika",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "FPV Drone Mod",
+        "version": "0.7.0",
+        "author": "pein",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/peinwastaken/SPTFPVDroneMod"
+      },
+      {
+        "name": "Lacyway's PvE Tweaks",
+        "version": "1.1.0",
+        "author": "Lacyway",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Legs",
+        "version": "2.1.2",
+        "author": "House16",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/sp-tarkov/server-mod-examples"
+      },
+      {
+        "name": "MergeConsumablesServer",
+        "version": "1.5.4",
+        "author": "Lacyway",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Dynamic Maps",
+        "version": "1.1.3",
+        "author": "mpstark",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Remove Backpack Nesting Restrictions",
+        "version": "1.0.0",
+        "author": "Cj",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "ReturnPK06",
+        "version": "1.0.0",
+        "author": "GlassFullOfSlop",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "SAIN",
+        "version": "4.4.3",
+        "author": "Solarint",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/ArchangelWTF/SAIN"
+      },
+      {
+        "name": "SPTModViewer",
+        "version": "0.3.0",
+        "author": "HioP",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "UI Fixes",
+        "version": "5.3.9",
+        "author": "Tyfon",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/tyfon7/uifixes"
+      },
+      {
+        "name": "Weapon Customizer",
+        "version": "3.0.3",
+        "author": "Tyfon",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/tyfon7/weaponcustomizer"
+      },
+      {
+        "name": "TylevoTacticalServicesControl",
+        "version": "0.9.4",
+        "author": "Tylevo",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "AirFilter Only Drains In Raid",
+        "version": "1.0.0",
+        "author": "Utjan",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "Vanilla Traders Rework",
+        "version": "1.0.2",
+        "author": "Ricardo Schurhaus",
+        "dateAdded": 1783330772,
+        "url": ""
+      },
+      {
+        "name": "WTT-Armory",
+        "version": "2.0.5",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "WTT-ContentBackport",
+        "version": "1.0.7",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "WTT-ServerCommonLib",
+        "version": "2.0.20",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1783330772
+      },
+      {
+        "name": "SVM",
+        "version": "2.1.2",
+        "author": "GhostFenixx",
+        "dateAdded": 1783330772,
+        "url": "https://github.com/GhostFenixx"
+      }
+    ],
+    "receivedGifts": [
+      {
+        "giftId": "MechanicGiftDay1",
+        "timestampLastAccepted": 1783330772,
+        "current": 1
+      }
+    ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {},
-    "migrations": {},
+    "migrations": {
+      "InvalidPocketFix": 1783330695
+    },
     "cultistRewards": {},
     "extraRepeatableQuests": {}
   },
