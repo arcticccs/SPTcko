@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 71,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 75,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1783551542
+        "UpdateTime": 1783552851
       },
       "Inventory": {
         "items": [
@@ -15849,7 +15849,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 767551
+              "StackObjectsCount": 504959
             }
           },
           {
@@ -16339,6 +16339,24 @@
             "slotId": "Right_side_plate",
             "upd": {
               "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a4edb7da8915605a05d0d2f",
+            "_tpl": "679b9819a2f2dd4da9023512",
+            "parentId": "6a4ed29655d45a22f4e39741",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false,
+              "Key": {
+                "NumberOfUsages": 0
+              }
             }
           }
         ],
@@ -23318,8 +23336,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 59.6284,
-                        "UnitsConsumed": 0.3716
+                        "Value": 59.5201,
+                        "UnitsConsumed": 0.4799
                       }
                     }
                   }
@@ -23767,7 +23785,7 @@
         "HideoutCounters": null,
         "Seed": "037af17b47b9982e450998c5a38bb269",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783552740,
+        "sptUpdateLastRunTimestamp": 1783552900,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -25685,17 +25703,6 @@
           "status": 2,
           "statusTimers": {
             "2": 1783462379
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a4d812907277327e8d3d752",
-          "startTime": 0,
-          "status": 8,
-          "statusTimers": {
-            "1": 1783465326.1569998,
-            "8": 1783550633.8809998
           },
           "completedConditions": [],
           "availableAfter": 0
