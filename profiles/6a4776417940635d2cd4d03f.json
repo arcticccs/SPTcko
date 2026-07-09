@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 93,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 102,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -73,48 +73,48 @@
         "BodyParts": {
           "Chest": {
             "Health": {
-              "Current": 82.47034,
+              "Current": 85,
               "Maximum": 85
             }
           },
           "Head": {
             "Health": {
-              "Current": 32.0425262,
+              "Current": 35,
               "Maximum": 35
             }
           },
           "LeftArm": {
             "Health": {
-              "Current": 57.20993,
+              "Current": 60,
               "Maximum": 60
             }
           },
           "LeftLeg": {
             "Health": {
-              "Current": 62.2843323,
+              "Current": 65,
               "Maximum": 65
             }
           },
           "RightArm": {
             "Health": {
-              "Current": 57.3959351,
+              "Current": 60,
               "Maximum": 60
             }
           },
           "RightLeg": {
             "Health": {
-              "Current": 62.0611267,
+              "Current": 65,
               "Maximum": 65
             }
           },
           "Stomach": {
             "Health": {
-              "Current": 67.07973,
+              "Current": 70,
               "Maximum": 70
             }
           }
         },
-        "UpdateTime": 1783553723
+        "UpdateTime": 1783588114
       },
       "Inventory": {
         "items": [
@@ -16665,10 +16665,10 @@
             "Progress": 535.882751
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1783552241,
+            "PointsEarnedDuringSession": 10,
+            "LastAccess": 1783588131,
             "Id": "HideoutManagement",
-            "Progress": 3559.37817
+            "Progress": 3569.37817
           }
         ],
         "Mastering": [
@@ -22476,8 +22476,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 58.8778,
-                        "UnitsConsumed": 1.1222
+                        "Value": 35.5986,
+                        "UnitsConsumed": 4.4014
                       }
                     }
                   }
@@ -22925,7 +22925,7 @@
         "HideoutCounters": null,
         "Seed": "037af17b47b9982e450998c5a38bb269",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783553847,
+        "sptUpdateLastRunTimestamp": 1783588272,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -36915,41 +36915,14 @@
   "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
-    "5c0647fdd443bc2504c2d371": {
-      "686e342b6c2a18ed6b0e976d": {
-        "count": 1,
-        "purchaseTimestamp": 1783550085
-      },
-      "686e34276c2a18ed6b0e95c7": {
-        "count": 1,
-        "purchaseTimestamp": 1783550109
-      },
-      "686e34286c2a18ed6b0e9619": {
-        "count": 1,
-        "purchaseTimestamp": 1783550133
-      },
-      "686e34236c2a18ed6b0e93ef": {
-        "count": 1,
-        "purchaseTimestamp": 1783552426
-      }
-    },
+    "5c0647fdd443bc2504c2d371": {},
     "54cb57776803fa99248b456e": {},
-    "54cb50c76803fa8b248b4571": {
-      "686e34636c2a18ed6b0eacd3": {
-        "count": 3,
-        "purchaseTimestamp": 1783552353
-      }
-    },
+    "54cb50c76803fa8b248b4571": {},
     "6688d464bc40c867f60e7d7e": {},
     "5935c25fb3acc3127c3d8cd9": {},
     "6617beeaa9cfa777ca915b7c": {},
     "58330581ace78e27b8b10cee": {},
-    "5a7c2eca46aef81a7ca2145d": {
-      "686e34356c2a18ed6b0e9aeb": {
-        "count": 1,
-        "purchaseTimestamp": 1783552386
-      }
-    },
+    "5a7c2eca46aef81a7ca2145d": {},
     "ee840a5ba014e9c5478d5ccd": {},
     "5ac3b934156ae10c4430e83c": {},
     "bd3a8b28356d9c6509966546": {}
