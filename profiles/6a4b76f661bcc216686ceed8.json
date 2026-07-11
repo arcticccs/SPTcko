@@ -19,7 +19,7 @@
         "Nickname": "headless_6a4b76f661bcc216686ceed7",
         "LowerNickname": "headless_6a4b76f661bcc216686ceed7",
         "Side": "Usec",
-        "Level": 1,
+        "Level": 28,
         "Experience": 0,
         "RegistrationDate": 1783330550,
         "GameVersion": "standard",
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1783681616
+        "UpdateTime": 1783760037
       },
       "Inventory": {
         "items": [
@@ -1146,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "ef9257d64886b28f36d710e6a7211597",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783681681,
+        "sptUpdateLastRunTimestamp": 1783773585,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -2088,65 +2088,7 @@
           "text": "",
           "hasRewards": true,
           "rewardCollected": false,
-          "items": {
-            "stash": "64b996c9d0de4697180359b6",
-            "data": [
-              {
-                "_id": "6a4f634af0aacb26209969fc",
-                "_tpl": "5751a25924597722c463c472",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6a4f634af0aacb26209969fd",
-                "_tpl": "5751a25924597722c463c472",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6a4f634af0aacb26209969fe",
-                "_tpl": "5ca20d5986f774331e7c9602",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6a4f634af0aacb26209969ff",
-                "_tpl": "5755356824597772cb798962",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6a4f634af0aacb2620996a00",
-                "_tpl": "5755356824597772cb798962",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6a4f634af0aacb2620996a01",
-                "_tpl": "5755356824597772cb798962",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              }
-            ]
-          },
+          "items": {},
           "maxStorageTime": 172800
         }
       ],
