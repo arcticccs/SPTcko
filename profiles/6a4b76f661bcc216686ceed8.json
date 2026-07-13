@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1783934811
+        "UpdateTime": 1783938400
       },
       "Inventory": {
         "items": [
@@ -1146,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "ef9257d64886b28f36d710e6a7211597",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783935378,
+        "sptUpdateLastRunTimestamp": 1783938560,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -2347,6 +2347,19 @@
         "author": "GhostFenixx",
         "dateAdded": 1783330772,
         "url": "https://github.com/GhostFenixx"
+      },
+      {
+        "name": "Cultist Circle Improvements",
+        "version": "1.0.1",
+        "author": "acidphantasm",
+        "dateAdded": 1783936276
+      },
+      {
+        "name": "DefinitiveWeaponVariants",
+        "version": "4.3.0",
+        "author": "Szonszczyk",
+        "dateAdded": 1783936276,
+        "url": "https://github.com/Szonszczyk/DefinitiveWeaponVariants-csharp"
       }
     ],
     "receivedGifts": [
