@@ -119,7 +119,7 @@
             }
           }
         },
-        "UpdateTime": 1784124087
+        "UpdateTime": 1784124730
       },
       "Inventory": {
         "items": [
@@ -18568,10 +18568,10 @@
             "Progress": 535.882751
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1784124090,
+            "PointsEarnedDuringSession": 5,
+            "LastAccess": 1784125675,
             "Id": "HideoutManagement",
-            "Progress": 4454.378
+            "Progress": 4459.378
           }
         ],
         "Mastering": [
@@ -23059,36 +23059,6 @@
           "value": 1,
           "sourceId": "657315e4a6af4ab4b50f3459"
         },
-        "668858720221bbe5f306b2a2": {
-          "id": "668858720221bbe5f306b2a2",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "668858720221bbe5f306b2a1"
-        },
-        "668858720221bbe5f306b2a3": {
-          "id": "668858720221bbe5f306b2a3",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "668858720221bbe5f306b2a1"
-        },
-        "668858720221bbe5f306b2a4": {
-          "id": "668858720221bbe5f306b2a4",
-          "type": "HandoverItem",
-          "value": 10,
-          "sourceId": "668858720221bbe5f306b2a1"
-        },
-        "668858720221bbe5f306b2a5": {
-          "id": "668858720221bbe5f306b2a5",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "668858720221bbe5f306b2a1"
-        },
-        "668858720221bbe5f306b2a6": {
-          "id": "668858720221bbe5f306b2a6",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "668858720221bbe5f306b2a1"
-        },
         "668858720221bbe5f306b2ee": {
           "id": "668858720221bbe5f306b2ee",
           "type": "CounterCreator",
@@ -24000,12 +23970,6 @@
           "type": "HandoverItem",
           "value": 0,
           "sourceId": "6a014bbe36ef933f941734a2"
-        },
-        "6a4b8f4e627a5e555c574375": {
-          "id": "6a4b8f4e627a5e555c574375",
-          "type": "HandoverItem",
-          "value": 4,
-          "sourceId": "6a4b8f4e627a5e555c574373"
         },
         "66885a3d0221bbe5f306b80e": {
           "id": "66885a3d0221bbe5f306b80e",
@@ -26522,8 +26486,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 80.6422,
-                        "UnitsConsumed": 9.3578
+                        "Value": 79.6932,
+                        "UnitsConsumed": 0.3068
                       }
                     }
                   }
@@ -26998,7 +26962,7 @@
         "HideoutCounters": null,
         "Seed": "037af17b47b9982e450998c5a38bb269",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784124412,
+        "sptUpdateLastRunTimestamp": 1784126268,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
