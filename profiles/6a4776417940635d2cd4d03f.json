@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 55,
+          "Current": 77,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 44,
+          "Current": 74,
           "Maximum": 110
         },
         "Temperature": {
@@ -119,7 +119,7 @@
             }
           }
         },
-        "UpdateTime": 1784221846
+        "UpdateTime": 1784222566
       },
       "Inventory": {
         "items": [
@@ -26024,8 +26024,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 30.2932,
-                        "UnitsConsumed": 9.7068
+                        "Value": 30.1488,
+                        "UnitsConsumed": 9.8512
                       }
                     }
                   }
@@ -26500,7 +26500,7 @@
         "HideoutCounters": null,
         "Seed": "037af17b47b9982e450998c5a38bb269",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784222337,
+        "sptUpdateLastRunTimestamp": 1784222618,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -29032,46 +29032,6 @@
           "statusTimers": {
             "1": 1783966223.824,
             "2": 1784199916
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a5792d648be510f4c410c5a",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1784192427.8179998
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a5792d648be510f4c410c67",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1784192427.8179998
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a5792d648be510f4c410c72",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1784192427.8179998
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a5792d648be510f4c410c80",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1784192427.8179998
           },
           "completedConditions": [],
           "availableAfter": 0
