@@ -19,7 +19,7 @@
         "Nickname": "headless_6a4b76f661bcc216686ceed7",
         "LowerNickname": "headless_6a4b76f661bcc216686ceed7",
         "Side": "Usec",
-        "Level": 35,
+        "Level": 1,
         "Experience": 0,
         "RegistrationDate": 1783330550,
         "GameVersion": "standard",
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1784293380
+        "UpdateTime": 1784301711
       },
       "Inventory": {
         "items": [
@@ -1146,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "ef9257d64886b28f36d710e6a7211597",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784293973,
+        "sptUpdateLastRunTimestamp": 1784306812,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
