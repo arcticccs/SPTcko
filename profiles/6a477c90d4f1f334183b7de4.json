@@ -120,7 +120,7 @@
             }
           }
         },
-        "UpdateTime": 1784838586
+        "UpdateTime": 1784881959
       },
       "Inventory": {
         "items": [
@@ -30461,20 +30461,6 @@
             }
           },
           {
-            "_id": "6a610e626ce27d7ba065c380",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
-              "y": 12,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 1000000
-            }
-          },
-          {
             "_id": "6a610e626ce27d7ba065c381",
             "_tpl": "5449016a4bdc2d6f028b456f",
             "parentId": "664115f68b8ae85875060b39",
@@ -30485,7 +30471,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1000000
+              "StackObjectsCount": 554242
             }
           },
           {
@@ -30669,12 +30655,11 @@
           {
             "_id": "6a627a3d60b0ae191c203d6d",
             "_tpl": "56742c2e4bdc2d95058b456d",
-            "parentId": "66c903b7cbd137db330413a2",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
-              "rotation": false,
+              "x": 5,
+              "y": 23,
               "r": "Horizontal"
             },
             "upd": {
@@ -30685,12 +30670,11 @@
           {
             "_id": "6a627a3d60b0ae191c203d6e",
             "_tpl": "656df4fec921ad01000481a2",
-            "parentId": "66c903b7cbd137db330413a2",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 1,
-              "y": 0,
-              "rotation": false,
+              "x": 4,
+              "y": 23,
               "r": "Horizontal"
             },
             "upd": {
@@ -30701,12 +30685,11 @@
           {
             "_id": "6a627a3d60b0ae191c203d6f",
             "_tpl": "590c35a486f774273531c822",
-            "parentId": "66c903b7cbd137db330413a2",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 2,
-              "y": 0,
-              "rotation": false,
+              "x": 8,
+              "y": 24,
               "r": "Horizontal"
             },
             "upd": {
@@ -30717,12 +30700,11 @@
           {
             "_id": "6a627a3d60b0ae191c203d70",
             "_tpl": "590a3d9c86f774385926e510",
-            "parentId": "66c903b7cbd137db330413a2",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 3,
-              "y": 0,
-              "rotation": false,
+              "x": 9,
+              "y": 19,
               "r": "Horizontal"
             },
             "upd": {
@@ -30733,12 +30715,11 @@
           {
             "_id": "6a627a3d60b0ae191c203d71",
             "_tpl": "5bc9c377d4351e3bac12251b",
-            "parentId": "66c903b7cbd137db330413a2",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 4,
-              "y": 0,
-              "rotation": false,
+              "x": 6,
+              "y": 12,
               "r": "Horizontal"
             },
             "upd": {
@@ -30749,13 +30730,12 @@
           {
             "_id": "6a627a3d60b0ae191c203d7b",
             "_tpl": "59e6687d86f77411d949b251",
-            "parentId": "66c903b7cbd137db330413a2",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
               "x": 0,
-              "y": 1,
-              "rotation": true,
-              "r": "Vertical"
+              "y": 42,
+              "r": "Horizontal"
             },
             "upd": {
               "Repairable": {
@@ -30840,13 +30820,12 @@
           {
             "_id": "6a627a3d60b0ae191c203d81",
             "_tpl": "5bfea6e90db834001b7347f3",
-            "parentId": "66c903b7cbd137db330413a2",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 5,
-              "y": 0,
-              "rotation": true,
-              "r": "Vertical"
+              "x": 0,
+              "y": 41,
+              "r": "Horizontal"
             },
             "upd": {
               "Repairable": {
@@ -30908,22 +30887,6 @@
             }
           },
           {
-            "_id": "6a627a9060b0ae191c204df6",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 6,
-              "y": 12,
-              "rotation": false,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 92370,
-              "SpawnedInSession": false
-            }
-          },
-          {
             "_id": "6a627a6c60b0ae191c204df0",
             "_tpl": "5c0fa877d174af02a012e1cf",
             "parentId": "664115f68b8ae85875060b39",
@@ -30965,6 +30928,408 @@
             },
             "upd": {
               "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2062",
+            "_tpl": "5b800ed086f7747baf6e2f9e",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 12,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2063",
+            "_tpl": "5780cf9e2459777df90dcb73",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 18,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2072",
+            "_tpl": "692066c92a67c15014e830ab",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 39,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "FireMode": {
+                "FireMode": "fullauto"
+              },
+              "SpawnedInSession": true,
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2066",
+            "_tpl": "5beec8ea0db834001a6f9dbf",
+            "parentId": "6a63236cd040f04e30ea2072",
+            "slotId": "mod_pistol_grip",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2067",
+            "_tpl": "5beec91a0db834001961942d",
+            "parentId": "6a63236cd040f04e30ea2072",
+            "slotId": "mod_reciever",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2068",
+            "_tpl": "5beec9450db83400970084fd",
+            "parentId": "6a63236cd040f04e30ea2067",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2069",
+            "_tpl": "5bf3f59f0db834001a6fa060",
+            "parentId": "6a63236cd040f04e30ea2068",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea206a",
+            "_tpl": "5beec8b20db834001961942a",
+            "parentId": "6a63236cd040f04e30ea2072",
+            "slotId": "mod_stock_001",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea206b",
+            "_tpl": "5beec8c20db834001d2c465c",
+            "parentId": "6a63236cd040f04e30ea206a",
+            "slotId": "mod_stock",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea206c",
+            "_tpl": "5beec3e30db8340019619424",
+            "parentId": "6a63236cd040f04e30ea2072",
+            "slotId": "mod_handguard",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea206d",
+            "_tpl": "5beecbb80db834001d2c465e",
+            "parentId": "6a63236cd040f04e30ea206c",
+            "slotId": "mod_mount_000",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea206e",
+            "_tpl": "5beecbb80db834001d2c465e",
+            "parentId": "6a63236cd040f04e30ea206c",
+            "slotId": "mod_mount_001",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea206f",
+            "_tpl": "5beec1bd0db834001e6006f3",
+            "parentId": "6a63236cd040f04e30ea2072",
+            "slotId": "mod_barrel",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2070",
+            "_tpl": "5beec3420db834001b095429",
+            "parentId": "6a63236cd040f04e30ea206f",
+            "slotId": "mod_muzzle",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2071",
+            "_tpl": "695ea28dec8bcd69a4f422cc",
+            "parentId": "6a63236cd040f04e30ea2072",
+            "slotId": "mod_core",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a63236cd040f04e30ea2073",
+            "_tpl": "1d145684ac5119451eec9699",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 19,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632380d040f04e30ea2077",
+            "_tpl": "68f260d7b84c6e1f8a09cffd",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 27,
+              "rotation": true,
+              "r": "Vertical"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea207c",
+            "_tpl": "57f4c844245977379d5c14d1",
+            "parentId": "66c903b7cbd137db330413a2",
+            "slotId": "CircleOfCultistsGrid1",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea207a",
+            "_tpl": "57d152ec245977144076ccdf",
+            "parentId": "6a632384d040f04e30ea207c",
+            "slotId": "mod_pistol_grip",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea207b",
+            "_tpl": "57d1519e24597714373db79d",
+            "parentId": "6a632384d040f04e30ea207c",
+            "slotId": "mod_magazine",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea207d",
+            "_tpl": "5672cb304bdc2dc2088b456a",
+            "parentId": "66c903b7cbd137db330413a2",
+            "slotId": "CircleOfCultistsGrid1",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea207e",
+            "_tpl": "5672cb304bdc2dc2088b456a",
+            "parentId": "66c903b7cbd137db330413a2",
+            "slotId": "CircleOfCultistsGrid1",
+            "location": {
+              "x": 4,
+              "y": 0,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea207f",
+            "_tpl": "573474f924597738002c6174",
+            "parentId": "66c903b7cbd137db330413a2",
+            "slotId": "CircleOfCultistsGrid1",
+            "location": {
+              "x": 5,
+              "y": 0,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2080",
+            "_tpl": "5733279d245977289b77ec24",
+            "parentId": "66c903b7cbd137db330413a2",
+            "slotId": "CircleOfCultistsGrid1",
+            "location": {
+              "x": 3,
+              "y": 1,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2081",
+            "_tpl": "5c13cd2486f774072c757944",
+            "parentId": "66c903b7cbd137db330413a2",
+            "slotId": "CircleOfCultistsGrid1",
+            "location": {
+              "x": 0,
+              "y": 2,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea208a",
+            "_tpl": "57dc2fa62459775949412633",
+            "parentId": "66c903b7cbd137db330413a2",
+            "slotId": "CircleOfCultistsGrid1",
+            "location": {
+              "x": 1,
+              "y": 2,
+              "rotation": true,
+              "r": "Vertical"
+            },
+            "upd": {
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "SpawnedInSession": true,
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2083",
+            "_tpl": "57e3dba62459770f0c32322b",
+            "parentId": "6a632384d040f04e30ea208a",
+            "slotId": "mod_pistol_grip",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2084",
+            "_tpl": "57dc347d245977596754e7a1",
+            "parentId": "6a632384d040f04e30ea208a",
+            "slotId": "mod_stock",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2085",
+            "_tpl": "564ca99c4bdc2d16268b4589",
+            "parentId": "6a632384d040f04e30ea208a",
+            "slotId": "mod_magazine",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2086",
+            "_tpl": "57dc324a24597759501edc20",
+            "parentId": "6a632384d040f04e30ea208a",
+            "slotId": "mod_muzzle",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2087",
+            "_tpl": "57dc334d245977597164366f",
+            "parentId": "6a632384d040f04e30ea208a",
+            "slotId": "mod_reciever",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2088",
+            "_tpl": "59d36a0086f7747e673f3946",
+            "parentId": "6a632384d040f04e30ea208a",
+            "slotId": "mod_gas_block",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632384d040f04e30ea2089",
+            "_tpl": "57dc32dc245977596d4ef3d3",
+            "parentId": "6a632384d040f04e30ea2088",
+            "slotId": "mod_handguard",
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a632388d040f04e30ea208b",
+            "_tpl": "5d1b33a686f7742523398398",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 5,
+              "y": 39,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
               "SpawnedInSession": true
             }
           }
@@ -31067,7 +31432,7 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1784838693,
+            "LastAccess": 1784882035,
             "Id": "Charisma",
             "Progress": 5100
           },
@@ -31258,10 +31623,10 @@
             "Progress": 1483.75
           },
           {
-            "PointsEarnedDuringSession": 35,
-            "LastAccess": 1784838721,
+            "PointsEarnedDuringSession": 52.5,
+            "LastAccess": 1784882056,
             "Id": "HideoutManagement",
-            "Progress": 4854.4
+            "Progress": 4871.9
           }
         ],
         "Mastering": [
@@ -41532,9 +41897,9 @@
         "Production": {
           "5d5589c1f934db045e6c5492": {
             "Products": [],
-            "Progress": 1463,
+            "Progress": 0,
             "inProgress": true,
-            "StartTimestamp": 1784838721,
+            "StartTimestamp": 1784882056,
             "SkipTime": 0,
             "ProductionTime": 10218,
             "GivenItemsInStart": [],
@@ -41547,44 +41912,14 @@
           },
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 1463,
+            "Progress": 10,
             "inProgress": true,
-            "StartTimestamp": 1784838717,
+            "StartTimestamp": 1784882052,
             "SkipTime": 0,
             "ProductionTime": 21600,
             "GivenItemsInStart": [
               {
-                "_id": "6a627a3460b0ae191c203d69",
-                "_tpl": "68f260d7b84c6e1f8a09cffd",
-                "parentId": "66c903b7cbd137db330413a2",
-                "slotId": "CircleOfCultistsGrid1",
-                "location": {
-                  "x": 2,
-                  "y": 0,
-                  "r": "Horizontal"
-                },
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": false
-                }
-              },
-              {
-                "_id": "6a627a3660b0ae191c203d6a",
-                "_tpl": "68f260d7b84c6e1f8a09cffd",
-                "parentId": "66c903b7cbd137db330413a2",
-                "slotId": "CircleOfCultistsGrid1",
-                "location": {
-                  "x": 1,
-                  "y": 0,
-                  "r": "Horizontal"
-                },
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": false
-                }
-              },
-              {
-                "_id": "6a627a3660b0ae191c203d6b",
+                "_id": "6a632380d040f04e30ea2075",
                 "_tpl": "68f260d7b84c6e1f8a09cffd",
                 "parentId": "66c903b7cbd137db330413a2",
                 "slotId": "CircleOfCultistsGrid1",
@@ -41599,12 +41934,27 @@
                 }
               },
               {
-                "_id": "6a627a3760b0ae191c203d6c",
+                "_id": "6a632380d040f04e30ea2076",
                 "_tpl": "68f260d7b84c6e1f8a09cffd",
                 "parentId": "66c903b7cbd137db330413a2",
                 "slotId": "CircleOfCultistsGrid1",
                 "location": {
-                  "x": 3,
+                  "x": 1,
+                  "y": 0,
+                  "r": "Horizontal"
+                },
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": false
+                }
+              },
+              {
+                "_id": "6a632380d040f04e30ea2078",
+                "_tpl": "68f260d7b84c6e1f8a09cffd",
+                "parentId": "66c903b7cbd137db330413a2",
+                "slotId": "CircleOfCultistsGrid1",
+                "location": {
+                  "x": 2,
                   "y": 0,
                   "r": "Horizontal"
                 },
@@ -41622,9 +41972,9 @@
           },
           "62710a0e436dcc0b9c55f4ec": {
             "Products": [],
-            "Progress": 1483,
+            "Progress": 18,
             "inProgress": true,
-            "StartTimestamp": 1784838693,
+            "StartTimestamp": 1784882035,
             "SkipTime": 0,
             "ProductionTime": 5498,
             "GivenItemsInStart": [],
@@ -41713,8 +42063,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 18.9397,
-                        "UnitsConsumed": 1.0603
+                        "Value": 0,
+                        "UnitsConsumed": 0
                       }
                     }
                   }
@@ -41728,9 +42078,11 @@
                     "id": "6a5f43453821fd47044384e2",
                     "_tpl": "5d1b36a186f7742523398433",
                     "upd": {
+                      "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 100
+                        "Value": 97.9432,
+                        "UnitsConsumed": 2.0568
                       }
                     }
                   }
@@ -41820,8 +42172,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 51.867,
-                        "UnitsConsumed": 8.133
+                        "Value": 21.032,
+                        "UnitsConsumed": 28.968000000000004
                       }
                     }
                   }
@@ -42238,7 +42590,7 @@
         "HideoutCounters": null,
         "Seed": "e7eccc1542df4fc2d6a6fe9b49734f3a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784840176,
+        "sptUpdateLastRunTimestamp": 1784882053,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6754662cc6e063d76309c607",
@@ -57303,10 +57655,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5dd5f4e642eb54680a4838",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 345600,
           "systemData": {
             "date": "19.07.2026",
@@ -64090,10 +64439,7 @@
           "text": "Your Ballistic Armor Co. Bastion helmet (MultiCam) 1 items were bought by OvalHitman.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5f22623821fd470436eb33",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -64104,10 +64450,7 @@
           "text": "Your Canister with purified water 2 items were bought by laser50.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5f22623821fd470436eb37",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -64118,10 +64461,7 @@
           "text": "Your Canister with purified water 3 items were bought by iNeverHit.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5f226d3821fd470436edf0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -64132,10 +64472,7 @@
           "text": "Your CENS ProFlex DX5 tactical earplug 1 items were bought by Zurugula.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5f22773821fd470436edf5",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -64146,10 +64483,7 @@
           "text": "Your PL-15 9x19 sound suppressor 1 items were bought by EASYCORE.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5f22813821fd470436fe0b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -64160,10 +64494,7 @@
           "text": "Your TerraGroup Labs access keycard 4 items were bought by Delirious_Y.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5f231a3821fd4704373123",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
